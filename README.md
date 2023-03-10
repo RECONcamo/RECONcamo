@@ -2,7 +2,6 @@
 - 👀 I’m interested in OSINT, Forensics, Recon not cracking
 - 🌱 I’m currently learning footprinting 
 - 💞️ I’m looking to collaborate on ... what? introverts collaborate?
-- 📫 How to reach me ... @osintcamo on twitter
 
 Kindness to others is a gift you give yourself.
 [OSINT tools](https://github.com/RECONcamo/OSINTtools/blob/main/index.md)
