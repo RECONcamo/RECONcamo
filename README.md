@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RECONcamo
 - 👀 I’m interested in OSINT, Forensics, Recon not cracking
-- 🌱 I’m currently learning footprinting 
+- 🌱 I’m currently learning sql and web security.
 - 💞️ I’m looking to collaborate on ... what? introverts collaborate?
 
 Kindness to others is a gift you give yourself.
